@@ -1,0 +1,613 @@
+{
+  "aaData" : [
+    {
+      "Gira" : "WINGS UNIVERSITY TOUR",
+      "Año" : 1972,
+      "Tipo" : "Gira",
+      "Shows" : 11,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "WINGS OVER EUROPE TOUR",
+      "Año" : 1972,
+      "Tipo" : "Gira",
+      "Shows" : 26,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "UK TOUR",
+      "Año" : 1973,
+      "Tipo" : "Gira",
+      "Shows" : 18,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "WINGS OVER THE WORLD",
+      "Año" : 1976,
+      "Tipo" : "Gira",
+      "Shows" : 50,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "WINGS OVER THE WORLD",
+      "Año" : 1976,
+      "Tipo" : "Gira",
+      "Shows" : 31,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "WINGS OVER THE WORLD",
+      "Año" : 1976,
+      "Tipo" : "Gira",
+      "Shows" : 9,
+      "Continentes" : "Oceanía"
+    },
+    {
+      "Gira" : "WINGS UK TOUR",
+      "Año" : 1979,
+      "Tipo" : "Gira",
+      "Shows" : 17,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "CONCERT FOR THE PEOPLE OF KAMPUCHEA",
+      "Año" : 1979,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "LIVE AID",
+      "Año" : 1985,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "PRINCES TRUST ALL-STAR ROCK CONCERT",
+      "Año" : 1986,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "THE PAUL MCCARTNEY WORLD TOUR",
+      "Año" : 1990,
+      "Tipo" : "Gira",
+      "Shows" : 46,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "THE PAUL MCCARTNEY WORLD TOUR",
+      "Año" : 1990,
+      "Tipo" : "Gira",
+      "Shows" : 48,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "THE PAUL MCCARTNEY WORLD TOUR",
+      "Año" : 1990,
+      "Tipo" : "Gira",
+      "Shows" : 2,
+      "Continentes" : "Sudamércia"
+    },
+    {
+      "Gira" : "THE PAUL MCCARTNEY WORLD TOUR",
+      "Año" : 1990,
+      "Tipo" : "Gira",
+      "Shows" : 7,
+      "Continentes" : "Asia"
+    },
+    {
+      "Gira" : "SURPRISE SHOWS",
+      "Año" : 1991,
+      "Tipo" : "Gira",
+      "Shows" : 6,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "SURPRISE SHOWS",
+      "Año" : 1991,
+      "Tipo" : "Gira",
+      "Shows" : 6,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "THE NEW WORLD TOUR",
+      "Año" : 1993,
+      "Tipo" : "Gira",
+      "Shows" : 6,
+      "Continentes" : "Sudamérica"
+    },
+    {
+      "Gira" : "THE NEW WORLD TOUR",
+      "Año" : 1993,
+      "Tipo" : "Gira",
+      "Shows" : 26,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "THE NEW WORLD TOUR",
+      "Año" : 1993,
+      "Tipo" : "Gira",
+      "Shows" : 6,
+      "Continentes" : "Asia"
+    },
+    {
+      "Gira" : "THE NEW WORLD TOUR",
+      "Año" : 1993,
+      "Tipo" : "Gira",
+      "Shows" : 33,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "THE NEW WORLD TOUR",
+      "Año" : 1993,
+      "Tipo" : "Gira",
+      "Shows" : 10,
+      "Continentes" : "Oceanía"
+    },
+    {
+      "Gira" : "AN EVENING WITH PAUL MCCARTNEY - ROYAL COLLEGE OF MUSIC BENEFIT",
+      "Año" : 1995,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "ALLEN GINSBERG LIVE AT THE ROYAL ALBERT HALL",
+      "Año" : 1995,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "MUSIC FOR MONTSERRAT",
+      "Año" : 1997,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "ROCK AND ROLL HALL OF FAME",
+      "Año" : 1999,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "HERE, THERE AND EVERYWHERE: A CONCERT FOR LINDA",
+      "Año" : 1999,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "PETA PARTY OF THE CENTURY",
+      "Año" : 1999,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "LIVE AT THE CAVERN",
+      "Año" : 1999,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "THE CONCERT FOR NEW YORK CITY",
+      "Año" : 2001,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "THE NOBEL PEACE PRIZE 100TH ANNIVERSARY CONCERT",
+      "Año" : 2001,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "SUPER BOWL XXXVI PREGAME CEREMONIES",
+      "Año" : 2002,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "DRIVING USA TOUR",
+      "Año" : 2002,
+      "Tipo" : "Gira",
+      "Shows" : 27,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "PARTY AT THE PALACE",
+      "Año" : 2002,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "BACK IN THE U.S. TOUR",
+      "Año" : 2002,
+      "Tipo" : "Gira",
+      "Shows" : 23,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "DRIVING MEXICO TOUR",
+      "Año" : 2002,
+      "Tipo" : "Gira",
+      "Shows" : 3,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "DRIVING JAPAN TOUR",
+      "Año" : 2002,
+      "Tipo" : "Gira",
+      "Shows" : 5,
+      "Continentes" : "Asia"
+    },
+    {
+      "Gira" : "A CONCERT FOR GEORGE",
+      "Año" : 2002,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "BACK IN THE WORLD TOUR",
+      "Año" : 2003,
+      "Tipo" : "Gira",
+      "Shows" : 33,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "SUMMER TOUR",
+      "Año" : 2004,
+      "Tipo" : "Gira",
+      "Shows" : 14,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "18TH ANNUAL BRIDGE SCHOOL BENEFIT CONCERT",
+      "Año" : 2004,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "NFL SUPER BOWL XXXIX HALFTIME SHOW",
+      "Año" : 2005,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "LIVE 8",
+      "Año" : 2005,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "ADOPT-A-MINEFIELD BENEFIT GALAS",
+      "Año" : 2005,
+      "Tipo" : "Gira",
+      "Shows" : 5,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "US TOUR",
+      "Año" : 2005,
+      "Tipo" : "Gira",
+      "Shows" : 37,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "MEMORY ALMOST FULL PROMO SHOW",
+      "Año" : 2007,
+      "Tipo" : "Presentación ",
+      "Shows" : 2,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "MEMORY ALMOST FULL PROMO SHOW",
+      "Año" : 2007,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "iTUNES FESTIVAL",
+      "Año" : 2007,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "LIVE AT THE OLYMPIA",
+      "Año" : 2007,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "ELECTRIC PROMS",
+      "Año" : 2007,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "LIVERPOOL SOUND",
+      "Año" : 2008,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "INDEPENDENCE CONCERT",
+      "Año" : 2008,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "400TH ANNIVERSAIRE DE QUEBEC",
+      "Año" : 2008,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "FRIENDSHIP FIRST CONCERT",
+      "Año" : 2008,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Asia"
+    },
+    {
+      "Gira" : "A LEAF",
+      "Año" : 2008,
+      "Tipo" : "Gira",
+      "Shows" : 20,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "A LEAF",
+      "Año" : 2008,
+      "Tipo" : "Gira",
+      "Shows" : 2,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "CHANGE BEGINS WITHIN' DAVID LYNCH FOUNDATION BENEFIT CONCERT",
+      "Año" : 2009,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "COACHELLA FESTIVAL",
+      "Año" : 2009,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "THE JOINT",
+      "Año" : 2009,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "HALIFAX COMMON",
+      "Año" : 2009,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "SUMMER LIVE 09 TOUR",
+      "Año" : 2009,
+      "Tipo" : "Gira",
+      "Shows" : 9,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "CHILDREN IN NEED",
+      "Año" : 2009,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "GOOD EVENING EUROPE",
+      "Año" : 2009,
+      "Tipo" : "Gira",
+      "Shows" : 8,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "THE OLD VIC 192",
+      "Año" : 2010,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "HARLEM APOLLO",
+      "Año" : 2010,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "100 CLUB",
+      "Año" : 2010,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "LIVE AT THE APOLLO",
+      "Año" : 2010,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "LIVE AT THE ACADEMY",
+      "Año" : 2010,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "UP AND COMING",
+      "Año" : 2011,
+      "Tipo" : "Gira",
+      "Shows" : 20,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "UP AND COMING",
+      "Año" : 2011,
+      "Tipo" : "Gira",
+      "Shows" : 5,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "UP AND COMING",
+      "Año" : 2011,
+      "Tipo" : "Gira",
+      "Shows" : 9,
+      "Continentes" : "Sudamérica"
+    },
+    {
+      "Gira" : "UP AND COMING",
+      "Año" : 2011,
+      "Tipo" : "Gira",
+      "Shows" : 1,
+      "Continentes" : "Centroamérica"
+    },
+    {
+      "Gira" : "THE QUEEN'S DIAMOND JUBILEE CONCERT",
+      "Año" : 2012,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "OLYMPICS OPENING CEREMONY",
+      "Año" : 2012,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "ON THE RUN ",
+      "Año" : 2012,
+      "Tipo" : "Gira",
+      "Shows" : 14,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "ON THE RUN ",
+      "Año" : 2012,
+      "Tipo" : "Gira",
+      "Shows" : 14,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "ON THE RUN ",
+      "Año" : 2012,
+      "Tipo" : "Gira",
+      "Shows" : 5,
+      "Continentes" : "Sudamérica"
+    },
+    {
+      "Gira" : "ON THE RUN ",
+      "Año" : 2012,
+      "Tipo" : "Gira",
+      "Shows" : 1,
+      "Continentes" : "Asia"
+    },
+    {
+      "Gira" : 121212,
+      "Año" : 2012,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "OUT THERE",
+      "Año" : 2013,
+      "Tipo" : "Gira",
+      "Shows" : 20,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "OUT THERE",
+      "Año" : 2013,
+      "Tipo" : "Gira",
+      "Shows" : 3,
+      "Continentes" : "Sudamérica"
+    },
+    {
+      "Gira" : "OUT THERE",
+      "Año" : 2013,
+      "Tipo" : "Gira",
+      "Shows" : 2,
+      "Continentes" : "Europa"
+    },
+    {
+      "Gira" : "OUT THERE",
+      "Año" : 2013,
+      "Tipo" : "Gira",
+      "Shows" : 6,
+      "Continentes" : "Asia"
+    },
+    {
+      "Gira" : "iHEARTRADIO MUSIC FESTIVAL",
+      "Año" : 2013,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "JIMMY KIMMEL TONIGHT- LIVE ON HOLLYWOOD BOULEVARD",
+      "Año" : 2013,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "LATE NIGHT WITH JIMMY FALLON ",
+      "Año" : 2013,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "FRANK SINATRA SCHOOL OF THE ARTS",
+      "Año" : 2013,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    },
+    {
+      "Gira" : "NEW YORK TIMES SQUARE -IMPROMPTU CONCERT",
+      "Año" : 2013,
+      "Tipo" : "Presentación ",
+      "Shows" : 1,
+      "Continentes" : "Norteamérica"
+    }
+  ]
+}
